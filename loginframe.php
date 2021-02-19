@@ -1,0 +1,1 @@
+document.writeln('<font color="coral">yang1969</font>｜<a href="/user.php">个人中心</a>｜<a href="/bookcase.php">我的书架</a>｜<a href="/history.php">阅读记录</a>｜<a href="/message.php?box=inbox" target="_top">查看短信</a>｜<a href="/logout.php" target="_self">退出</a>');
